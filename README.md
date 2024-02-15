@@ -2,7 +2,7 @@
 
 ## Are you looking for Runtime Permission in Android - [YouTube video](https://youtu.be/KEDZQN_IGQA)
 
-![Runtime permission in Android](https://github.com/pushpendra996/mvvm-android/blob/main/MVVM%20in%20Android.png?raw=true)
+![Runtime permission in Android](https://github.com/pushpendra996/runtime-permission/blob/main/runtime%20permission.png?raw=true)
 
 This repository contains the code and resources discussed in the YouTube video titled "Practical Guide to Runtime permission: How Professional Developers Approach Application Development."
 
